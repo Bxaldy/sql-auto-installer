@@ -8,7 +8,7 @@ This PowerShell script provides an automated way to install a SQL Server 2019 (o
 
 🛠 Features
 
-SQL Server 2019 installation using Install-DbaInstance
+SQL Server 2019 or SQL Server 2022 installation using Install-DbaInstance
 
 Dynamic or fixed TCP port configuration
 
